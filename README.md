@@ -1,6 +1,6 @@
 # TDD by example
 
-For links and slides, see: https://miro.com/app/board/uXjVNLJPRew=/
+For links and slides, see: [https://miro.com/app/board/uXjVNLJPRew=/](https://miro.com/app/board/uXjVIABDsoA=/?share_link_id=903813009003)
 
 This repository was created for the Espresso Tutorials course "TDD in ABAP OO by example." Link to the course: https://et.training/dashboard/product/video/1397?search=ABAP%20OO
 
