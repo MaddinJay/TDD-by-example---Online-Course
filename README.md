@@ -1,9 +1,9 @@
 # TDD by example
 
-For links and slides, see: [https://miro.com/app/board/uXjVNLJPRew=/](https://miro.com/app/board/uXjVIABDsoA=/?share_link_id=903813009003)
+For links and slides, see: [MIRO Board](https://miro.com/app/board/uXjVIABDsoA=/?share_link_id=719644847618)
 
-This repository was created for the Espresso Tutorials course "TDD in ABAP OO by example." Link to the course: https://et.training/dashboard/product/video/1397?search=ABAP%20OO
-
+This repository was created for the Espresso Tutorials course "TDD in ABAP OO by example." 
+[Link to the course](https://www.skool.com/abap-clean-coders-hub/classroom/28f71d27?md=f06cb72ab318489da4a4600de4f88763)
 ## Introductory Example in TDD - Code Kata FizzBuzz
 
 As an introductory example, we have chosen the Code Kata FizzBuzz (https://codingdojo.org/kata/FizzBuzz/). The TDD cycle is illustrated through the Code Kata, where we collectively develop the core solution for the "convert_number" method. The commit history demonstrates the steps taken to derive the solution for the main "convert" method.
